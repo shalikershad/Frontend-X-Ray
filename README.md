@@ -4,8 +4,6 @@
 
 **A detailed tutorial covering the code in this repository:** [Turning design mockups into code with deep learning](https://emilwallner.medium.com/how-you-can-train-an-ai-to-convert-your-design-mockups-into-html-and-css-cc7afd82fed4).
 
-**Plug:** 👉 Check out my 60-page guide, [No ML Degree](https://twitter.com/EmilWallner/status/1528961488206979072), on how to land a machine learning job without a degree.
-
 The neural network is built in three iterations. Starting with a Hello World version, followed by the main neural network layers, and ending by training it to generalize. 
 
 The models are based on Tony Beltramelli's [pix2code](https://github.com/tonybeltramelli/pix2code), and inspired by Airbnb's [sketching interfaces](https://airbnb.design/sketching-interfaces/), and Harvard's [im2markup](https://github.com/harvardnlp/im2markup).
